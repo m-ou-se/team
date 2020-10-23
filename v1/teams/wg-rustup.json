@@ -1,0 +1,41 @@
+{
+  "name": "wg-rustup",
+  "kind": "working_group",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Daniel Silverstone",
+      "github": "kinnison",
+      "github_id": 1469421,
+      "is_lead": true
+    },
+    {
+      "name": "Robert Collins",
+      "github": "rbtcollins",
+      "github_id": 499678,
+      "is_lead": true
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "github_id": 762626,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Rustup working group",
+    "description": "Designing and implementing rustup",
+    "page": "wg-rustup",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-rustup",
+      "url": "https://discord.gg/e6Q3cvu"
+    },
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

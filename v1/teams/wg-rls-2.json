@@ -1,0 +1,25 @@
+{
+  "name": "wg-rls-2",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Aleksey Kladov",
+      "github": "matklad",
+      "github_id": 1711539,
+      "is_lead": true
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "RLS 2.0 working group",
+    "description": "Experimenting with a new compiler architecture tailored for IDEs",
+    "page": "wg-rls-2",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/rls-2.0/",
+    "discord": null,
+    "zulip_stream": "t-compiler/wg-rls-2.0",
+    "weight": 0
+  }
+}

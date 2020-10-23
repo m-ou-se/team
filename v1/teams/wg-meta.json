@@ -1,0 +1,37 @@
+{
+  "name": "wg-meta",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "David Wood",
+      "github": "davidtwco",
+      "github_id": 1295100,
+      "is_lead": true
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "github_id": 52642,
+      "is_lead": true
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "Meta working group",
+    "description": "Organizing and managing the Rust compiler team",
+    "page": "wg-meta",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/meta/",
+    "discord": null,
+    "zulip_stream": "t-compiler/wg-meta",
+    "weight": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "mods-discord",
+  "kind": "team",
+  "subteam_of": "mods",
+  "members": [
+    {
+      "name": "Marisa",
+      "github": "fmoko",
+      "github_id": 6445316,
+      "is_lead": false
+    },
+    {
+      "name": "Khionu Sybiern",
+      "github": "khionu",
+      "github_id": 11195266,
+      "is_lead": false
+    },
+    {
+      "name": "Siân Griffin",
+      "github": "sgrif",
+      "github_id": 1529387,
+      "is_lead": false
+    },
+    {
+      "name": "Joshua Gould",
+      "github": "technetos",
+      "github_id": 10949810,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "github_id": 855702,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Discord moderators",
+    "description": "Moderating the Discord server",
+    "page": "mods-discord",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "name": "wg-prioritization",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "github_id": 52642,
+      "is_lead": true
+    },
+    {
+      "name": "Wesley Wiser",
+      "github": "wesleywiser",
+      "github_id": 831192,
+      "is_lead": true
+    },
+    {
+      "name": "amit",
+      "github": "am-1t",
+      "github_id": 28247396,
+      "is_lead": false
+    },
+    {
+      "name": "apiraino",
+      "github": "apiraino",
+      "github_id": 6098822,
+      "is_lead": false
+    },
+    {
+      "name": "Bawer Dagdeviren",
+      "github": "bawerd",
+      "github_id": 625483,
+      "is_lead": false
+    },
+    {
+      "name": "Camelid",
+      "github": "camelid",
+      "github_id": 37223377,
+      "is_lead": false
+    },
+    {
+      "name": "DJ Carpenter",
+      "github": "djcarpe",
+      "github_id": 59489977,
+      "is_lead": false
+    },
+    {
+      "name": "Dylan DPC",
+      "github": "Dylan-DPC",
+      "github_id": 12371125,
+      "is_lead": false
+    },
+    {
+      "name": "Fredrik Østrem",
+      "github": "frxstrem",
+      "github_id": 1686349,
+      "is_lead": false
+    },
+    {
+      "name": "Hameer Abbasi",
+      "github": "hameerabbasi",
+      "github_id": 2190658,
+      "is_lead": false
+    },
+    {
+      "name": "James Gill",
+      "github": "JamesPatrickGill",
+      "github_id": 44863195,
+      "is_lead": false
+    },
+    {
+      "name": "Jonathan Chasteen",
+      "github": "jechasteen",
+      "github_id": 13788397,
+      "is_lead": false
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "Joshua Nelson",
+      "github": "jyn514",
+      "github_id": 23638587,
+      "is_lead": false
+    },
+    {
+      "name": "Bastian Kauschke",
+      "github": "lcnr",
+      "github_id": 29864074,
+      "is_lead": false
+    },
+    {
+      "name": "LeSeulArtichaut",
+      "github": "LeSeulArtichaut",
+      "github_id": 38361244,
+      "is_lead": false
+    },
+    {
+      "name": "Mason Stallmo",
+      "github": "mstallmo",
+      "github_id": 6796542,
+      "is_lead": false
+    },
+    {
+      "name": "Jeremy Lempereur",
+      "github": "o0Ignition0o",
+      "github_id": 9465678,
+      "is_lead": false
+    },
+    {
+      "name": "Felix Klock",
+      "github": "pnkfelix",
+      "github_id": 173127,
+      "is_lead": false
+    },
+    {
+      "name": "Stu",
+      "github": "Stupremee",
+      "github_id": 39732259,
+      "is_lead": false
+    },
+    {
+      "name": "Yohei Tamura",
+      "github": "tamuhey",
+      "github_id": 24998666,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "github_id": 855702,
+      "is_lead": false
+    },
+    {
+      "name": "Who? Me?!",
+      "github": "mark-i-m",
+      "github_id": 8827840,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-prioritization",
+        "members": [
+          52642,
+          173127,
+          625483,
+          831192,
+          1686349,
+          2190658,
+          6098822,
+          6796542,
+          9465678,
+          12371125,
+          13788397,
+          23638587,
+          24998666,
+          25030997,
+          28247396,
+          29864074,
+          37223377,
+          38361244,
+          39732259,
+          44863195,
+          59489977
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Prioritization working group",
+    "description": "Triaging bugs, mainly deciding if bugs are critical (potential release blockers) or not",
+    "page": "wg-prioritization",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/prioritization/",
+    "discord": null,
+    "zulip_stream": "t-compiler/wg-prioritization",
+    "weight": 0
+  }
+}

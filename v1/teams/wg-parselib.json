@@ -1,0 +1,25 @@
+{
+  "name": "wg-parselib",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Aleksey Kladov",
+      "github": "matklad",
+      "github_id": 1711539,
+      "is_lead": true
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "Parselib working group",
+    "description": "Sharing the parser between rustc and rust-analyzer",
+    "page": "wg-parselib",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/parselib/",
+    "discord": null,
+    "zulip_stream": "t-compiler/wg-parselib",
+    "weight": 0
+  }
+}

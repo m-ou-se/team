@@ -1,0 +1,28 @@
+{
+  "name": "infra-admins",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Aidan Hobson Sayers",
+      "github": "aidanhs",
+      "github_id": 1050652,
+      "is_lead": false
+    },
+    {
+      "name": "Mark Rousskov",
+      "github": "Mark-Simulacrum",
+      "github_id": 5047365,
+      "is_lead": false
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "github_id": 2299951,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": null
+}

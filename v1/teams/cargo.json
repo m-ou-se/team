@@ -1,0 +1,73 @@
+{
+  "name": "cargo",
+  "kind": "team",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Eric Huss",
+      "github": "ehuss",
+      "github_id": 43198,
+      "is_lead": true
+    },
+    {
+      "name": "Alex Crichton",
+      "github": "alexcrichton",
+      "github_id": 64996,
+      "is_lead": false
+    },
+    {
+      "name": "Jacob Finkelman",
+      "github": "Eh2406",
+      "github_id": 3709504,
+      "is_lead": false
+    },
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "github_id": 162737,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "github_id": 762626,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "cargo",
+        "members": [
+          43198,
+          64996,
+          162737,
+          3709504
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "cargo",
+        "members": [
+          43198,
+          64996,
+          162737,
+          3709504
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Cargo team",
+    "description": "Designing and implementing the official Rust package manager, Cargo",
+    "page": "cargo",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": "t-cargo",
+    "weight": 0
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "name": "devtools",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Pascal Hertleif",
+      "github": "killercup",
+      "github_id": 20063,
+      "is_lead": true
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": true
+    },
+    {
+      "name": "Eric Huss",
+      "github": "ehuss",
+      "github_id": 43198,
+      "is_lead": false
+    },
+    {
+      "name": "Nick Fitzgerald",
+      "github": "fitzgen",
+      "github_id": 74571,
+      "is_lead": false
+    },
+    {
+      "name": "Guillaume Gomez",
+      "github": "GuillaumeGomez",
+      "github_id": 3050060,
+      "is_lead": false
+    },
+    {
+      "name": "Daniel Silverstone",
+      "github": "kinnison",
+      "github_id": 1469421,
+      "is_lead": false
+    },
+    {
+      "name": "Oliver Scherer",
+      "github": "oli-obk",
+      "github_id": 332036,
+      "is_lead": false
+    },
+    {
+      "name": "Igor Matuszewski",
+      "github": "Xanewok",
+      "github_id": 3093213,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "github_id": 762626,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-dev-tools",
+        "name": "devtools",
+        "members": [
+          20063,
+          43198,
+          74571,
+          332036,
+          1469421,
+          1617736,
+          3050060,
+          3093213
+        ]
+      },
+      {
+        "org": "rust-lang",
+        "name": "devtools",
+        "members": [
+          20063,
+          43198,
+          74571,
+          332036,
+          1469421,
+          1617736,
+          3050060,
+          3093213
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Dev tools team",
+    "description": "Contributing to and creating the Rust development tools",
+    "page": "dev-tools",
+    "email": "tools@rust-lang.org",
+    "repo": "https://github.com/rust-dev-tools/dev-tools-team",
+    "discord": {
+      "channel": "#dev-tools",
+      "url": "https://discord.gg/sG23nSS"
+    },
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

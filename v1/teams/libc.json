@@ -1,0 +1,33 @@
+{
+  "name": "libc",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "github_id": 162737,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "libc",
+        "members": [
+          162737,
+          25030997
+        ]
+      }
+    ]
+  },
+  "website_data": null
+}

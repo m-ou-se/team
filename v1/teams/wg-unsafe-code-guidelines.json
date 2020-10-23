@@ -1,0 +1,37 @@
+{
+  "name": "wg-unsafe-code-guidelines",
+  "kind": "working_group",
+  "subteam_of": "lang",
+  "members": [
+    {
+      "name": "Diane Hosfelt",
+      "github": "avadacatavra",
+      "github_id": 11877868,
+      "is_lead": true
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    },
+    {
+      "name": "Ralf Jung",
+      "github": "RalfJung",
+      "github_id": 330628,
+      "is_lead": true
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "Unsafe Code Guidelines (UCG) working group",
+    "description": "Working out the \"Unsafe Code Guidelines\", which define what kind of behavior unsafe code can and cannot do",
+    "page": "wg-unsafe-code-guidelines",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": "t-lang/wg-unsafe-code-guidelines",
+    "weight": 0
+  }
+}

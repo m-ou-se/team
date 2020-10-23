@@ -1,0 +1,146 @@
+{
+  "name": "wg-async-foundations",
+  "kind": "working_group",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    },
+    {
+      "name": "Tyler Mandry",
+      "github": "tmandry",
+      "github_id": 2280544,
+      "is_lead": true
+    },
+    {
+      "name": "Aaron Hill",
+      "github": "Aaron1011",
+      "github_id": 1408859,
+      "is_lead": false
+    },
+    {
+      "name": "Didrik Nordström",
+      "github": "betamos",
+      "github_id": 135960,
+      "is_lead": false
+    },
+    {
+      "name": "Bhargav Voleti",
+      "github": "bIgBV",
+      "github_id": 5019938,
+      "is_lead": false
+    },
+    {
+      "name": "Taylor Cramer",
+      "github": "cramertj",
+      "github_id": 5963049,
+      "is_lead": false
+    },
+    {
+      "name": "csmoe",
+      "github": "csmoe",
+      "github_id": 35686186,
+      "is_lead": false
+    },
+    {
+      "name": "Squirrel",
+      "github": "gilescope",
+      "github_id": 803976,
+      "is_lead": false
+    },
+    {
+      "name": "Lee Bernick",
+      "github": "lbernick",
+      "github_id": 29333301,
+      "is_lead": false
+    },
+    {
+      "name": "Lucio Franco",
+      "github": "LucioFranco",
+      "github_id": 5758045,
+      "is_lead": false
+    },
+    {
+      "name": "Nell Shamrell-Harrington",
+      "github": "nellshamrell",
+      "github_id": 813007,
+      "is_lead": false
+    },
+    {
+      "name": "Taiki Endo",
+      "github": "taiki-e",
+      "github_id": 43724913,
+      "is_lead": false
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "github_id": 9063376,
+      "is_lead": false
+    },
+    {
+      "name": "Yoshua Wuyts",
+      "github": "yoshuawuyts",
+      "github_id": 2467194,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-async-foundations",
+        "members": [
+          135960,
+          155238,
+          803976,
+          813007,
+          1408859,
+          2280544,
+          2467194,
+          5019938,
+          5758045,
+          5963049,
+          9063376,
+          29333301,
+          35686186,
+          43724913
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "wg-async-foundations",
+        "members": [
+          135960,
+          155238,
+          803976,
+          813007,
+          1408859,
+          2280544,
+          2467194,
+          5019938,
+          5758045,
+          5963049,
+          9063376,
+          29333301,
+          35686186,
+          43724913
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Async Foundations working group",
+    "description": "Pursuing core language and library support for async-await",
+    "page": "wg-async-foundations",
+    "email": null,
+    "repo": "https://github.com/rust-lang/wg-async-foundations",
+    "discord": null,
+    "zulip_stream": "wg-async-foundations",
+    "weight": 0
+  }
+}

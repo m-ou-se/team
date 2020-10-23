@@ -1,0 +1,111 @@
+{
+  "name": "core",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Aidan Hobson Sayers",
+      "github": "aidanhs",
+      "github_id": 1050652,
+      "is_lead": false
+    },
+    {
+      "name": "Ashley Williams",
+      "github": "ashleygwilliams",
+      "github_id": 1163554,
+      "is_lead": false
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": false
+    },
+    {
+      "name": "Mark Rousskov",
+      "github": "Mark-Simulacrum",
+      "github_id": 5047365,
+      "is_lead": false
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": false
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "github_id": 2299951,
+      "is_lead": false
+    },
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "github_id": 47542,
+      "is_lead": false
+    },
+    {
+      "name": "Steve Klabnik",
+      "github": "steveklabnik",
+      "github_id": 27786,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Carol Nichols",
+      "github": "carols10cents",
+      "github_id": 193874,
+      "is_lead": false
+    },
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "github_id": 762626,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "core",
+        "members": [
+          27786,
+          47542,
+          155238,
+          1050652,
+          1163554,
+          1617736,
+          2299951,
+          5047365
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "core",
+        "members": [
+          27786,
+          47542,
+          155238,
+          1050652,
+          1163554,
+          1617736,
+          2299951,
+          5047365
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Core team",
+    "description": "Managing the overall direction of Rust, subteam leadership, and any cross-cutting issues",
+    "page": "core",
+    "email": "core@rust-lang.org",
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 1000
+  }
+}

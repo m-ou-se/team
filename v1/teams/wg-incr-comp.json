@@ -1,0 +1,56 @@
+{
+  "name": "wg-incr-comp",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Felix Klock",
+      "github": "pnkfelix",
+      "github_id": 173127,
+      "is_lead": true
+    },
+    {
+      "name": "Wesley Wiser",
+      "github": "wesleywiser",
+      "github_id": 831192,
+      "is_lead": true
+    },
+    {
+      "name": "David Wood",
+      "github": "davidtwco",
+      "github_id": 1295100,
+      "is_lead": false
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "github_id": 52642,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-incr-comp",
+        "members": [
+          52642,
+          173127,
+          831192,
+          1295100
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Incremental compilation working group",
+    "description": "Fixing bugs, adding features and improving incremental compilation in rustc",
+    "page": "wg-incr-comp",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/incr-comp/",
+    "discord": null,
+    "zulip_stream": "t-compiler/wg-incr-comp",
+    "weight": 0
+  }
+}

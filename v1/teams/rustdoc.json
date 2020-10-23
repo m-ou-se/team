@@ -1,0 +1,76 @@
+{
+  "name": "rustdoc",
+  "kind": "team",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Guillaume Gomez",
+      "github": "GuillaumeGomez",
+      "github_id": 3050060,
+      "is_lead": true
+    },
+    {
+      "name": "Joshua Nelson",
+      "github": "jyn514",
+      "github_id": 23638587,
+      "is_lead": false
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": false
+    },
+    {
+      "name": "Oliver Middleton",
+      "github": "ollie27",
+      "github_id": 7189418,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Daniel Silverstone",
+      "github": "kinnison",
+      "github_id": 1469421,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "rustdoc",
+        "members": [
+          1617736,
+          3050060,
+          7189418,
+          23638587
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "rustdoc",
+        "members": [
+          1617736,
+          3050060,
+          7189418,
+          23638587
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Rustdoc team",
+    "description": "Developing and managing the Rustdoc documentation tool",
+    "page": "rustdoc",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#rustdoc",
+      "url": "https://discord.gg/4yEYPuT"
+    },
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

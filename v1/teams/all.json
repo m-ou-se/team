@@ -1,0 +1,640 @@
+{
+  "name": "all",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Aaron Hill",
+      "github": "Aaron1011",
+      "github_id": 1408859,
+      "is_lead": false
+    },
+    {
+      "name": "Aditya Arora",
+      "github": "adityac8",
+      "github_id": 19192257,
+      "is_lead": false
+    },
+    {
+      "name": "Aidan Hobson Sayers",
+      "github": "aidanhs",
+      "github_id": 1050652,
+      "is_lead": false
+    },
+    {
+      "name": "Alex Crichton",
+      "github": "alexcrichton",
+      "github_id": 64996,
+      "is_lead": false
+    },
+    {
+      "name": "Alex Butler",
+      "github": "alexheretic",
+      "github_id": 2331607,
+      "is_lead": false
+    },
+    {
+      "name": "Amanieu d'Antras",
+      "github": "Amanieu",
+      "github_id": 278509,
+      "is_lead": false
+    },
+    {
+      "name": "Arshia Mufti",
+      "github": "arshiamufti",
+      "github_id": 15066212,
+      "is_lead": false
+    },
+    {
+      "name": "Ashley Williams",
+      "github": "ashleygwilliams",
+      "github_id": 1163554,
+      "is_lead": false
+    },
+    {
+      "name": "Junfeng Li",
+      "github": "autozimu",
+      "github_id": 1453551,
+      "is_lead": false
+    },
+    {
+      "name": "Jan-Erik Rediger",
+      "github": "badboy",
+      "github_id": 2129,
+      "is_lead": false
+    },
+    {
+      "name": "Andrew Gallant",
+      "github": "BurntSushi",
+      "github_id": 456674,
+      "is_lead": false
+    },
+    {
+      "name": "Carol Nichols",
+      "github": "carols10cents",
+      "github_id": 193874,
+      "is_lead": false
+    },
+    {
+      "name": "Claus Matzinger",
+      "github": "celaus",
+      "github_id": 713346,
+      "is_lead": false
+    },
+    {
+      "name": "Taylor Cramer",
+      "github": "cramertj",
+      "github_id": 5963049,
+      "is_lead": false
+    },
+    {
+      "name": "Josh Stone",
+      "github": "cuviper",
+      "github_id": 36186,
+      "is_lead": false
+    },
+    {
+      "name": "David Wood",
+      "github": "davidtwco",
+      "github_id": 1295100,
+      "is_lead": false
+    },
+    {
+      "name": "David Tolnay",
+      "github": "dtolnay",
+      "github_id": 1940490,
+      "is_lead": false
+    },
+    {
+      "name": "Dylan DPC",
+      "github": "Dylan-DPC",
+      "github_id": 12371125,
+      "is_lead": false
+    },
+    {
+      "name": "Eduardo Broto",
+      "github": "ebroto",
+      "github_id": 816908,
+      "is_lead": false
+    },
+    {
+      "name": "Dylan MacKenzie",
+      "github": "ecstatic-morse",
+      "github_id": 29463364,
+      "is_lead": false
+    },
+    {
+      "name": "Eduard Burtescu",
+      "github": "eddyb",
+      "github_id": 77424,
+      "is_lead": false
+    },
+    {
+      "name": "Jacob Finkelman",
+      "github": "Eh2406",
+      "github_id": 3709504,
+      "is_lead": false
+    },
+    {
+      "name": "Eric Huss",
+      "github": "ehuss",
+      "github_id": 43198,
+      "is_lead": false
+    },
+    {
+      "name": "Esteban Kuber",
+      "github": "estebank",
+      "github_id": 1606434,
+      "is_lead": false
+    },
+    {
+      "name": "Nick Fitzgerald",
+      "github": "fitzgen",
+      "github_id": 74571,
+      "is_lead": false
+    },
+    {
+      "name": "István Szmozsánszky",
+      "github": "flaki",
+      "github_id": 2089432,
+      "is_lead": false
+    },
+    {
+      "name": "Philipp Krones",
+      "github": "flip1995",
+      "github_id": 9744647,
+      "is_lead": false
+    },
+    {
+      "name": "Florian Diebold",
+      "github": "flodiebold",
+      "github_id": 906069,
+      "is_lead": false
+    },
+    {
+      "name": "Marisa",
+      "github": "fmoko",
+      "github_id": 6445316,
+      "is_lead": false
+    },
+    {
+      "name": "Guillaume Gomez",
+      "github": "GuillaumeGomez",
+      "github_id": 3050060,
+      "is_lead": false
+    },
+    {
+      "name": "Ryan Scheel",
+      "github": "Havvy",
+      "github_id": 731722,
+      "is_lead": false
+    },
+    {
+      "name": "Tatsuyuki Ishi",
+      "github": "ishitatsuyuki",
+      "github_id": 12389383,
+      "is_lead": false
+    },
+    {
+      "name": "Jason Williams",
+      "github": "jasonwilliams",
+      "github_id": 936006,
+      "is_lead": false
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "Jonas Schievink",
+      "github": "jonas-schievink",
+      "github_id": 1786438,
+      "is_lead": false
+    },
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "github_id": 162737,
+      "is_lead": false
+    },
+    {
+      "name": "Justin Geibel",
+      "github": "jtgeibel",
+      "github_id": 22186,
+      "is_lead": false
+    },
+    {
+      "name": "Joshua Nelson",
+      "github": "jyn514",
+      "github_id": 23638587,
+      "is_lead": false
+    },
+    {
+      "name": "kennytm",
+      "github": "kennytm",
+      "github_id": 103023,
+      "is_lead": false
+    },
+    {
+      "name": "Khionu Sybiern",
+      "github": "khionu",
+      "github_id": 11195266,
+      "is_lead": false
+    },
+    {
+      "name": "Pascal Hertleif",
+      "github": "killercup",
+      "github_id": 20063,
+      "is_lead": false
+    },
+    {
+      "name": "Daniel Silverstone",
+      "github": "kinnison",
+      "github_id": 1469421,
+      "is_lead": false
+    },
+    {
+      "name": "Chase Wilson",
+      "github": "Kixiron",
+      "github_id": 25047011,
+      "is_lead": false
+    },
+    {
+      "name": "Ashley Mannix",
+      "github": "KodrAus",
+      "github_id": 6721458,
+      "is_lead": false
+    },
+    {
+      "name": "Bastian Kauschke",
+      "github": "lcnr",
+      "github_id": 29864074,
+      "is_lead": false
+    },
+    {
+      "name": "Andre Bogus",
+      "github": "llogiq",
+      "github_id": 4200835,
+      "is_lead": false
+    },
+    {
+      "name": "Ricardo Mendes",
+      "github": "locks",
+      "github_id": 32344,
+      "is_lead": false
+    },
+    {
+      "name": "Rémy Rakic",
+      "github": "lqd",
+      "github_id": 247183,
+      "is_lead": false
+    },
+    {
+      "name": "Lucas Bullen",
+      "github": "LucasBullen",
+      "github_id": 10255066,
+      "is_lead": false
+    },
+    {
+      "name": "Lukas Kalbertodt",
+      "github": "LukasKalbertodt",
+      "github_id": 7419664,
+      "is_lead": false
+    },
+    {
+      "name": "Mara Bos",
+      "github": "m-ou-se",
+      "github_id": 783247,
+      "is_lead": false
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": false
+    },
+    {
+      "name": "Mário Idival",
+      "github": "marioidival",
+      "github_id": 1129263,
+      "is_lead": false
+    },
+    {
+      "name": "Mark Rousskov",
+      "github": "Mark-Simulacrum",
+      "github_id": 5047365,
+      "is_lead": false
+    },
+    {
+      "name": "Aleksey Kladov",
+      "github": "matklad",
+      "github_id": 1711539,
+      "is_lead": false
+    },
+    {
+      "name": "Matt Gathu",
+      "github": "mattgathu",
+      "github_id": 1155192,
+      "is_lead": false
+    },
+    {
+      "name": "Matthew Jasper",
+      "github": "matthewjasper",
+      "github_id": 20113453,
+      "is_lead": false
+    },
+    {
+      "name": "Matthias Krüger",
+      "github": "matthiaskrgr",
+      "github_id": 476013,
+      "is_lead": false
+    },
+    {
+      "name": "Matthieu M.",
+      "github": "matthieu-m",
+      "github_id": 2420441,
+      "is_lead": false
+    },
+    {
+      "name": "Matt Brubeck",
+      "github": "mbrubeck",
+      "github_id": 5920,
+      "is_lead": false
+    },
+    {
+      "name": "Martin Carton",
+      "github": "mcarton",
+      "github_id": 3751788,
+      "is_lead": false
+    },
+    {
+      "name": "mikerite",
+      "github": "mikerite",
+      "github_id": 33983332,
+      "is_lead": false
+    },
+    {
+      "name": "Simonas Kazlauskas",
+      "github": "nagisa",
+      "github_id": 679122,
+      "is_lead": false
+    },
+    {
+      "name": "Nell Shamrell-Harrington",
+      "github": "nellshamrell",
+      "github_id": 813007,
+      "is_lead": false
+    },
+    {
+      "name": "Wim",
+      "github": "Nemo157",
+      "github_id": 81079,
+      "is_lead": false
+    },
+    {
+      "name": "Nikita Popov",
+      "github": "nikic",
+      "github_id": 216080,
+      "is_lead": false
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": false
+    },
+    {
+      "name": "Nicholas Nethercote",
+      "github": "nnethercote",
+      "github_id": 1940286,
+      "is_lead": false
+    },
+    {
+      "name": "Michael Howell",
+      "github": "notriddle",
+      "github_id": 1593513,
+      "is_lead": false
+    },
+    {
+      "name": "Oliver Scherer",
+      "github": "oli-obk",
+      "github_id": 332036,
+      "is_lead": false
+    },
+    {
+      "name": "Oliver Middleton",
+      "github": "ollie27",
+      "github_id": 7189418,
+      "is_lead": false
+    },
+    {
+      "name": "Onur Aslan",
+      "github": "onur",
+      "github_id": 345828,
+      "is_lead": false
+    },
+    {
+      "name": "Vadim Petrochenkov",
+      "github": "petrochenkov",
+      "github_id": 5751617,
+      "is_lead": false
+    },
+    {
+      "name": "Philipp Hansch",
+      "github": "phansch",
+      "github_id": 2042399,
+      "is_lead": false
+    },
+    {
+      "name": "Florian Pichler",
+      "github": "pichfl",
+      "github_id": 194641,
+      "is_lead": false
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "github_id": 2299951,
+      "is_lead": false
+    },
+    {
+      "name": "Felix Klock",
+      "github": "pnkfelix",
+      "github_id": 173127,
+      "is_lead": false
+    },
+    {
+      "name": "Ralf Jung",
+      "github": "RalfJung",
+      "github_id": 330628,
+      "is_lead": false
+    },
+    {
+      "name": "Ryan Levick",
+      "github": "rylev",
+      "github_id": 1327285,
+      "is_lead": false
+    },
+    {
+      "name": "Alexandre Martin",
+      "github": "scalexm",
+      "github_id": 1173131,
+      "is_lead": false
+    },
+    {
+      "name": "Scott McMurray",
+      "github": "scottmcm",
+      "github_id": 18526288,
+      "is_lead": false
+    },
+    {
+      "name": "Sebastián Magrí",
+      "github": "sebasmagri",
+      "github_id": 11137,
+      "is_lead": false
+    },
+    {
+      "name": "Steven Fackler",
+      "github": "sfackler",
+      "github_id": 1455697,
+      "is_lead": false
+    },
+    {
+      "name": "Siân Griffin",
+      "github": "sgrif",
+      "github_id": 1529387,
+      "is_lead": false
+    },
+    {
+      "name": "Jake Goulding",
+      "github": "shepmaster",
+      "github_id": 174509,
+      "is_lead": false
+    },
+    {
+      "name": "Simon Sapin",
+      "github": "SimonSapin",
+      "github_id": 291359,
+      "is_lead": false
+    },
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "github_id": 47542,
+      "is_lead": false
+    },
+    {
+      "name": "Sven Marnach",
+      "github": "smarnach",
+      "github_id": 249196,
+      "is_lead": false
+    },
+    {
+      "name": "Scott Olson",
+      "github": "solson",
+      "github_id": 26806,
+      "is_lead": false
+    },
+    {
+      "name": "Katharina Fey",
+      "github": "spacekookie",
+      "github_id": 7669898,
+      "is_lead": false
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "github_id": 52642,
+      "is_lead": false
+    },
+    {
+      "name": "Steve Klabnik",
+      "github": "steveklabnik",
+      "github_id": 27786,
+      "is_lead": false
+    },
+    {
+      "name": "Joshua Gould",
+      "github": "technetos",
+      "github_id": 10949810,
+      "is_lead": false
+    },
+    {
+      "name": "Tyler Mandry",
+      "github": "tmandry",
+      "github_id": 2280544,
+      "is_lead": false
+    },
+    {
+      "name": "Tobias Bieniek",
+      "github": "Turbo87",
+      "github_id": 141300,
+      "is_lead": false
+    },
+    {
+      "name": "varkor",
+      "github": "varkor",
+      "github_id": 3943692,
+      "is_lead": false
+    },
+    {
+      "name": "Mahmut Bulut",
+      "github": "vertexclique",
+      "github_id": 578559,
+      "is_lead": false
+    },
+    {
+      "name": "Vlad Beskrovnyy",
+      "github": "vlad20012",
+      "github_id": 3221931,
+      "is_lead": false
+    },
+    {
+      "name": "Wesley Wiser",
+      "github": "wesleywiser",
+      "github_id": 831192,
+      "is_lead": false
+    },
+    {
+      "name": "Wesley Moore",
+      "github": "wezm",
+      "github_id": 21787,
+      "is_lead": false
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "github_id": 9063376,
+      "is_lead": false
+    },
+    {
+      "name": "Erin Power",
+      "github": "XAMPPRocky",
+      "github_id": 4464295,
+      "is_lead": false
+    },
+    {
+      "name": "Igor Matuszewski",
+      "github": "Xanewok",
+      "github_id": 3093213,
+      "is_lead": false
+    },
+    {
+      "name": "Jane Lusby",
+      "github": "yaahc",
+      "github_id": 1993852,
+      "is_lead": false
+    },
+    {
+      "name": "Zack M. Davis",
+      "github": "zackmdavis",
+      "github_id": 1076988,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": null
+}

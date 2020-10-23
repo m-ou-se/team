@@ -1,0 +1,29 @@
+{
+  "name": "twir",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Andre Bogus",
+      "github": "llogiq",
+      "github_id": 4200835,
+      "is_lead": false
+    },
+    {
+      "name": "Nell Shamrell-Harrington",
+      "github": "nellshamrell",
+      "github_id": 813007,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Vikrant Chaudhary",
+      "github": "nasa42",
+      "github_id": 233999,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": null
+}

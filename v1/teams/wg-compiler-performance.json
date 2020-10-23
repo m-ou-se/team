@@ -1,0 +1,25 @@
+{
+  "name": "wg-compiler-performance",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "Compiler performance working group",
+    "description": "Improving rustc compilation performance (build times)",
+    "page": "wg-compiler-performance",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

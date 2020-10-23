@@ -1,0 +1,116 @@
+{
+  "name": "infra",
+  "kind": "team",
+  "subteam_of": "operations",
+  "members": [
+    {
+      "name": "Aidan Hobson Sayers",
+      "github": "aidanhs",
+      "github_id": 1050652,
+      "is_lead": true
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "github_id": 2299951,
+      "is_lead": true
+    },
+    {
+      "name": "kennytm",
+      "github": "kennytm",
+      "github_id": 103023,
+      "is_lead": false
+    },
+    {
+      "name": "Mark Rousskov",
+      "github": "Mark-Simulacrum",
+      "github_id": 5047365,
+      "is_lead": false
+    },
+    {
+      "name": "Nell Shamrell-Harrington",
+      "github": "nellshamrell",
+      "github_id": 813007,
+      "is_lead": false
+    },
+    {
+      "name": "Siân Griffin",
+      "github": "sgrif",
+      "github_id": 1529387,
+      "is_lead": false
+    },
+    {
+      "name": "Jake Goulding",
+      "github": "shepmaster",
+      "github_id": 174509,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "bors-rs",
+        "name": "rust-infra",
+        "members": [
+          103023,
+          174509,
+          813007,
+          1050652,
+          1529387,
+          2299951,
+          5047365
+        ]
+      },
+      {
+        "org": "rust-lang",
+        "name": "infra",
+        "members": [
+          103023,
+          174509,
+          813007,
+          1050652,
+          1529387,
+          2299951,
+          5047365
+        ]
+      },
+      {
+        "org": "rust-lang-ci",
+        "name": "infra",
+        "members": [
+          103023,
+          174509,
+          813007,
+          1050652,
+          1529387,
+          2299951,
+          5047365
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "infra",
+        "members": [
+          103023,
+          174509,
+          813007,
+          1050652,
+          1529387,
+          2299951,
+          5047365
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Infrastructure team",
+    "description": "Managing the infrastructure supporting the Rust project itself, including CI, releases, bots, and metrics",
+    "page": "infra",
+    "email": "infra@rust-lang.org",
+    "repo": null,
+    "discord": null,
+    "zulip_stream": "t-infra",
+    "weight": 0
+  }
+}

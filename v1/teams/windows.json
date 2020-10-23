@@ -1,0 +1,64 @@
+{
+  "name": "windows",
+  "kind": "marker_team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Arlo Siemsen",
+      "github": "arlosi",
+      "github_id": 704597,
+      "is_lead": false
+    },
+    {
+      "name": "Daniel Frampton",
+      "github": "danielframpton",
+      "github_id": 15899604,
+      "is_lead": false
+    },
+    {
+      "name": "Gabriel Dos Reis",
+      "github": "gdr-at-ms",
+      "github_id": 11031650,
+      "is_lead": false
+    },
+    {
+      "name": "Kenny Kerr",
+      "github": "kennykerr",
+      "github_id": 9845234,
+      "is_lead": false
+    },
+    {
+      "name": "Luqman Aden",
+      "github": "luqmana",
+      "github_id": 287063,
+      "is_lead": false
+    },
+    {
+      "name": "Jason Shirk",
+      "github": "lzybkr",
+      "github_id": 2148248,
+      "is_lead": false
+    },
+    {
+      "name": "Peter Atashian",
+      "github": "retep998",
+      "github_id": 666308,
+      "is_lead": false
+    },
+    {
+      "name": "Ryan Levick",
+      "github": "rylev",
+      "github_id": 1327285,
+      "is_lead": false
+    },
+    {
+      "name": "Arlie Davis",
+      "github": "sivadeilra",
+      "github_id": 4743776,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": null
+}

@@ -1,0 +1,47 @@
+{
+  "name": "website",
+  "kind": "team",
+  "subteam_of": "web-presence",
+  "members": [
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": true
+    },
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "github_id": 47542,
+      "is_lead": true
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "github_id": 2299951,
+      "is_lead": false
+    },
+    {
+      "name": "Erin Power",
+      "github": "XAMPPRocky",
+      "github_id": 4464295,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "website",
+        "members": [
+          47542,
+          1617736,
+          2299951,
+          4464295
+        ]
+      }
+    ]
+  },
+  "website_data": null
+}

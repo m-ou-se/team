@@ -1,0 +1,63 @@
+{
+  "name": "wg-ffi-unwind",
+  "kind": "working_group",
+  "subteam_of": "lang",
+  "members": [
+    {
+      "name": "Adam C. Foltzer",
+      "github": "acfoltzer",
+      "github_id": 205266,
+      "is_lead": true
+    },
+    {
+      "name": "Kyle J Strand",
+      "github": "BatmanAoD",
+      "github_id": 2313807,
+      "is_lead": true
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    },
+    {
+      "name": "Amanieu d'Antras",
+      "github": "Amanieu",
+      "github_id": 278509,
+      "is_lead": false
+    },
+    {
+      "name": "gnzlbg",
+      "github": "gnzlbg",
+      "github_id": 904614,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-ffi-unwind",
+        "members": [
+          155238,
+          205266,
+          278509,
+          904614,
+          2313807
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "ffi-unwind project group",
+    "description": "A working-group project to extend the Rust language to support unwinding that crosses FFI boundaries",
+    "page": "wg-ffi-unwind",
+    "email": null,
+    "repo": "https://github.com/rust-lang/project-ffi-unwind",
+    "discord": null,
+    "zulip_stream": "project-ffi-unwind",
+    "weight": 0
+  }
+}

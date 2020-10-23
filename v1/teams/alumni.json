@@ -1,0 +1,325 @@
+{
+  "name": "alumni",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "James Miller",
+      "github": "Aatch",
+      "github_id": 342416,
+      "is_lead": false
+    },
+    {
+      "name": "Alexis Hunt",
+      "github": "alercah",
+      "github_id": 20842325,
+      "is_lead": false
+    },
+    {
+      "name": "Ariel Ben-Yehuda",
+      "github": "arielb1",
+      "github_id": 1830974,
+      "is_lead": false
+    },
+    {
+      "name": "Aaron Turon",
+      "github": "aturon",
+      "github_id": 709807,
+      "is_lead": false
+    },
+    {
+      "name": "awygle",
+      "github": "awygle",
+      "github_id": 7854806,
+      "is_lead": false
+    },
+    {
+      "name": "Georg Brandl",
+      "github": "birkenfeld",
+      "github_id": 144359,
+      "is_lead": false
+    },
+    {
+      "name": "Brian Koropoff",
+      "github": "bkoropoff",
+      "github_id": 2101303,
+      "is_lead": false
+    },
+    {
+      "name": "Mark Sta Ana",
+      "github": "booyaa",
+      "github_id": 192864,
+      "is_lead": false
+    },
+    {
+      "name": "Brad Campbell",
+      "github": "bradjc",
+      "github_id": 1467890,
+      "is_lead": false
+    },
+    {
+      "name": "Brian Anderson",
+      "github": "brson",
+      "github_id": 147214,
+      "is_lead": false
+    },
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "github_id": 855702,
+      "is_lead": false
+    },
+    {
+      "name": "Dan Callaghan",
+      "github": "danc86",
+      "github_id": 398575,
+      "is_lead": false
+    },
+    {
+      "name": "Björn Steinbrink",
+      "github": "dotdash",
+      "github_id": 230962,
+      "is_lead": false
+    },
+    {
+      "name": "David Craven",
+      "github": "dvc94ch",
+      "github_id": 741807,
+      "is_lead": false
+    },
+    {
+      "name": "Dale Wijnand",
+      "github": "dwijnand",
+      "github_id": 344610,
+      "is_lead": false
+    },
+    {
+      "name": "Dylan McKay",
+      "github": "dylanmckay",
+      "github_id": 7722159,
+      "is_lead": false
+    },
+    {
+      "name": "E. Dunham",
+      "github": "edunham",
+      "github_id": 812892,
+      "is_lead": false
+    },
+    {
+      "name": "Erick Tryzelaar",
+      "github": "erickt",
+      "github_id": 84711,
+      "is_lead": false
+    },
+    {
+      "name": "Corey Farwell",
+      "github": "frewsxcv",
+      "github_id": 416575,
+      "is_lead": false
+    },
+    {
+      "name": "Alexis Beingessner",
+      "github": "Gankra",
+      "github_id": 1136864,
+      "is_lead": false
+    },
+    {
+      "name": "Hanna Kruppe",
+      "github": "hanna-kruppe",
+      "github_id": 2311707,
+      "is_lead": false
+    },
+    {
+      "name": "Hanno Braun",
+      "github": "hannobraun",
+      "github_id": 85732,
+      "is_lead": false
+    },
+    {
+      "name": "Huon Wilson",
+      "github": "huonw",
+      "github_id": 1203825,
+      "is_lead": false
+    },
+    {
+      "name": "Jonathan Soo",
+      "github": "jcsoo",
+      "github_id": 2399463,
+      "is_lead": false
+    },
+    {
+      "name": "Jonathan Turner",
+      "github": "jonathandturner",
+      "github_id": 547158,
+      "is_lead": false
+    },
+    {
+      "name": "Jeffrey Seyfried",
+      "github": "jseyfried",
+      "github_id": 8652869,
+      "is_lead": false
+    },
+    {
+      "name": "Marvin Löbel",
+      "github": "Kimundi",
+      "github_id": 2903206,
+      "is_lead": false
+    },
+    {
+      "name": "Emil Fresk",
+      "github": "korken89",
+      "github_id": 913109,
+      "is_lead": false
+    },
+    {
+      "name": "Wladimir J. van der Laan",
+      "github": "laanwj",
+      "github_id": 126646,
+      "is_lead": false
+    },
+    {
+      "name": "Levente Kurusa",
+      "github": "levex",
+      "github_id": 849140,
+      "is_lead": false
+    },
+    {
+      "name": "Josef Brandl",
+      "github": "MajorBreakfast",
+      "github_id": 340142,
+      "is_lead": false
+    },
+    {
+      "name": "Who? Me?!",
+      "github": "mark-i-m",
+      "github_id": 8827840,
+      "is_lead": false
+    },
+    {
+      "name": "Vikrant Chaudhary",
+      "github": "nasa42",
+      "github_id": 233999,
+      "is_lead": false
+    },
+    {
+      "name": "Nicolette Verlinden",
+      "github": "niconii",
+      "github_id": 10183419,
+      "is_lead": false
+    },
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "github_id": 762626,
+      "is_lead": false
+    },
+    {
+      "name": "Paolo Teti",
+      "github": "paoloteti",
+      "github_id": 35451649,
+      "is_lead": false
+    },
+    {
+      "name": "James Duley",
+      "github": "parched",
+      "github_id": 5975405,
+      "is_lead": false
+    },
+    {
+      "name": "Patrick Walton",
+      "github": "pcwalton",
+      "github_id": 157897,
+      "is_lead": false
+    },
+    {
+      "name": "Jeremiah Peschka",
+      "github": "peschkaj",
+      "github_id": 71570,
+      "is_lead": false
+    },
+    {
+      "name": "Vadzim Dambrouski",
+      "github": "pftbest",
+      "github_id": 1573340,
+      "is_lead": false
+    },
+    {
+      "name": "QuietMisdreavus",
+      "github": "QuietMisdreavus",
+      "github_id": 5217170,
+      "is_lead": false
+    },
+    {
+      "name": "Russell Johnston",
+      "github": "rpjohnst",
+      "github_id": 161677,
+      "is_lead": false
+    },
+    {
+      "name": "Hideki Sekine",
+      "github": "sekineh",
+      "github_id": 3956266,
+      "is_lead": false
+    },
+    {
+      "name": "Jonathan Pallant",
+      "github": "thejpster",
+      "github_id": 959887,
+      "is_lead": false
+    },
+    {
+      "name": "Tim Neumann",
+      "github": "TimNN",
+      "github_id": 1178249,
+      "is_lead": false
+    },
+    {
+      "name": "Tom Prince",
+      "github": "tomprince",
+      "github_id": 283816,
+      "is_lead": false
+    },
+    {
+      "name": "vaishali Thakkar",
+      "github": "v-thakkar",
+      "github_id": 7105009,
+      "is_lead": false
+    },
+    {
+      "name": "whitequark",
+      "github": "whitequark",
+      "github_id": 54771,
+      "is_lead": false
+    },
+    {
+      "name": "Ioannis Valasakis",
+      "github": "wizofe",
+      "github_id": 22352218,
+      "is_lead": false
+    },
+    {
+      "name": "Yehuda Katz",
+      "github": "wycats",
+      "github_id": 4,
+      "is_lead": false
+    },
+    {
+      "name": "Zoxc",
+      "github": "Zoxc",
+      "github_id": 25784,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "Rust team alumni",
+    "description": "Enjoying a leisurely retirement",
+    "page": "alumni",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": -1000
+  }
+}

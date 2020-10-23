@@ -1,0 +1,64 @@
+{
+  "name": "wg-rustfix",
+  "kind": "working_group",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Esteban Kuber",
+      "github": "estebank",
+      "github_id": 1606434,
+      "is_lead": false
+    },
+    {
+      "name": "Pascal Hertleif",
+      "github": "killercup",
+      "github_id": 20063,
+      "is_lead": false
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": false
+    },
+    {
+      "name": "Oliver Scherer",
+      "github": "oli-obk",
+      "github_id": 332036,
+      "is_lead": false
+    },
+    {
+      "name": "Philipp Hansch",
+      "github": "phansch",
+      "github_id": 2042399,
+      "is_lead": false
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "github_id": 2299951,
+      "is_lead": false
+    },
+    {
+      "name": "Zack M. Davis",
+      "github": "zackmdavis",
+      "github_id": 1076988,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "Rustfix working group",
+    "description": "Developing cargo-fix and serving as a point of contact for other teams",
+    "page": "wg-rustfix",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-rustfix",
+      "url": "https://discord.gg/e6Q3cvu"
+    },
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

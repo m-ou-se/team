@@ -1,0 +1,49 @@
+{
+  "name": "wg-safe-transmute",
+  "kind": "working_group",
+  "subteam_of": "lang",
+  "members": [
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "github_id": 162737,
+      "is_lead": true
+    },
+    {
+      "name": "Ryan Levick",
+      "github": "rylev",
+      "github_id": 1327285,
+      "is_lead": true
+    },
+    {
+      "name": "Jack Wrenn",
+      "github": "jswrenn",
+      "github_id": 3820879,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-safe-transmute",
+        "members": [
+          162737,
+          1327285,
+          3820879
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "safe-transmute project group",
+    "description": "A working-group project to extend the Rust language to support safe transmute between types",
+    "page": "wg-safe-transmute",
+    "email": null,
+    "repo": "https://github.com/rust-lang/project-safe-transmute",
+    "discord": null,
+    "zulip_stream": "project-safe-transmute",
+    "weight": 0
+  }
+}

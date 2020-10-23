@@ -1,0 +1,35 @@
+{
+  "name": "community-survey",
+  "kind": "team",
+  "subteam_of": "community",
+  "members": [
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": true
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "community-survey",
+        "members": [
+          1617736
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Survey team",
+    "description": "Running, analysing, and presenting the community survey",
+    "page": "community-survey",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

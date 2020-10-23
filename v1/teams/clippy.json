@@ -1,0 +1,105 @@
+{
+  "name": "clippy",
+  "kind": "team",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Philipp Krones",
+      "github": "flip1995",
+      "github_id": 9744647,
+      "is_lead": true
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": true
+    },
+    {
+      "name": "Eduardo Broto",
+      "github": "ebroto",
+      "github_id": 816908,
+      "is_lead": false
+    },
+    {
+      "name": "Pascal Hertleif",
+      "github": "killercup",
+      "github_id": 20063,
+      "is_lead": false
+    },
+    {
+      "name": "Andre Bogus",
+      "github": "llogiq",
+      "github_id": 4200835,
+      "is_lead": false
+    },
+    {
+      "name": "Matthias Krüger",
+      "github": "matthiaskrgr",
+      "github_id": 476013,
+      "is_lead": false
+    },
+    {
+      "name": "Martin Carton",
+      "github": "mcarton",
+      "github_id": 3751788,
+      "is_lead": false
+    },
+    {
+      "name": "mikerite",
+      "github": "mikerite",
+      "github_id": 33983332,
+      "is_lead": false
+    },
+    {
+      "name": "Oliver Scherer",
+      "github": "oli-obk",
+      "github_id": 332036,
+      "is_lead": false
+    },
+    {
+      "name": "Philipp Hansch",
+      "github": "phansch",
+      "github_id": 2042399,
+      "is_lead": false
+    },
+    {
+      "name": "Jane Lusby",
+      "github": "yaahc",
+      "github_id": 1993852,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "clippy",
+        "members": [
+          20063,
+          332036,
+          476013,
+          816908,
+          1617736,
+          1993852,
+          2042399,
+          3751788,
+          4200835,
+          9744647,
+          33983332
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Clippy team",
+    "description": "Designing and implementing the Clippy linter",
+    "page": "clippy",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": "clippy",
+    "weight": 0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "wg-wasm",
+  "kind": "working_group",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Nick Fitzgerald",
+      "github": "fitzgen",
+      "github_id": 74571,
+      "is_lead": true
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "WebAssembly (WASM) working group",
+    "description": "Improving on the end-to-end experience of embedding Rust code in JS libraries and apps via WebAssembly",
+    "page": "wasm",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

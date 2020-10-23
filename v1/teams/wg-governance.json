@@ -1,0 +1,84 @@
+{
+  "name": "wg-governance",
+  "kind": "working_group",
+  "subteam_of": "core",
+  "members": [
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    },
+    {
+      "name": "Erin Power",
+      "github": "XAMPPRocky",
+      "github_id": 4464295,
+      "is_lead": true
+    },
+    {
+      "name": "Kyle J Strand",
+      "github": "BatmanAoD",
+      "github_id": 2313807,
+      "is_lead": false
+    },
+    {
+      "name": "Benjamin Kampmann",
+      "github": "gnunicorn",
+      "github_id": 40496,
+      "is_lead": false
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": false
+    },
+    {
+      "name": "Nell Shamrell-Harrington",
+      "github": "nellshamrell",
+      "github_id": 813007,
+      "is_lead": false
+    },
+    {
+      "name": "valgrimm",
+      "github": "valgrimm",
+      "github_id": 56933147,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "github_id": 47542,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-governance",
+        "members": [
+          40496,
+          155238,
+          813007,
+          1617736,
+          2313807,
+          4464295,
+          56933147
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Governance working group",
+    "description": "Managing and improving Rust team governance",
+    "page": "wg-governance",
+    "email": null,
+    "repo": "https://github.com/rust-lang/wg-governance",
+    "discord": null,
+    "zulip_stream": "wg-governance",
+    "weight": 0
+  }
+}

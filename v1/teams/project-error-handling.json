@@ -1,0 +1,49 @@
+{
+  "name": "project-error-handling",
+  "kind": "project_group",
+  "subteam_of": "libs",
+  "members": [
+    {
+      "name": "Jane Lusby",
+      "github": "yaahc",
+      "github_id": 1993852,
+      "is_lead": true
+    },
+    {
+      "name": "Andrew Gallant",
+      "github": "BurntSushi",
+      "github_id": 456674,
+      "is_lead": false
+    },
+    {
+      "name": "Sean Chen",
+      "github": "seanchen1991",
+      "github_id": 4572868,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "project-error-handling",
+        "members": [
+          456674,
+          1993852,
+          4572868
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Error Handling Project Group",
+    "description": "Identifying error handling best practices and consolidating the ecosystem",
+    "page": "project-error-handling",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "docs",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Steve Klabnik",
+      "github": "steveklabnik",
+      "github_id": 27786,
+      "is_lead": true
+    },
+    {
+      "name": "Claus Matzinger",
+      "github": "celaus",
+      "github_id": 713346,
+      "is_lead": false
+    },
+    {
+      "name": "Guillaume Gomez",
+      "github": "GuillaumeGomez",
+      "github_id": 3050060,
+      "is_lead": false
+    },
+    {
+      "name": "Ryan Levick",
+      "github": "rylev",
+      "github_id": 1327285,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "Documentation team",
+    "description": "Improving and moderating the quality of Rust's documentation",
+    "page": "documentation",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

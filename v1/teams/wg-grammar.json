@@ -1,0 +1,44 @@
+{
+  "name": "wg-grammar",
+  "kind": "working_group",
+  "subteam_of": "lang",
+  "members": [
+    {
+      "name": "Eduard Burtescu",
+      "github": "eddyb",
+      "github_id": 77424,
+      "is_lead": true
+    },
+    {
+      "name": "Douglas Campos",
+      "github": "qmx",
+      "github_id": 66734,
+      "is_lead": true
+    },
+    {
+      "name": "Christopher Durham",
+      "github": "CAD97",
+      "github_id": 5992217,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "github_id": 855702,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Grammar working group",
+    "description": "Working out the official, formal grammar for Rust and validating it against existing implementations",
+    "page": "wg-grammar",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "name": "wg-traits",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Jack Huey",
+      "github": "jackh726",
+      "github_id": 31162821,
+      "is_lead": true
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    },
+    {
+      "name": "Aaron Hill",
+      "github": "Aaron1011",
+      "github_id": 1408859,
+      "is_lead": false
+    },
+    {
+      "name": "Michael Babenko",
+      "github": "Areredify",
+      "github_id": 25266609,
+      "is_lead": false
+    },
+    {
+      "name": "Wilco Kusee",
+      "github": "detrumi",
+      "github_id": 5758008,
+      "is_lead": false
+    },
+    {
+      "name": "Florian Diebold",
+      "github": "flodiebold",
+      "github_id": 906069,
+      "is_lead": false
+    },
+    {
+      "name": "Mark McCaskey",
+      "github": "MarkMcCaskey",
+      "github_id": 5770194,
+      "is_lead": false
+    },
+    {
+      "name": "Matthew Jasper",
+      "github": "matthewjasper",
+      "github_id": 20113453,
+      "is_lead": false
+    },
+    {
+      "name": "Mark Drobnak",
+      "github": "Mcat12",
+      "github_id": 4417660,
+      "is_lead": false
+    },
+    {
+      "name": "Nathan Whitaker",
+      "github": "nathanwhit",
+      "github_id": 17734409,
+      "is_lead": false
+    },
+    {
+      "name": "Ben Lewis",
+      "github": "skinny121",
+      "github_id": 7391596,
+      "is_lead": false
+    },
+    {
+      "name": "Jane Lusby",
+      "github": "yaahc",
+      "github_id": 1993852,
+      "is_lead": false
+    },
+    {
+      "name": "Zahari Dichev",
+      "github": "zaharidichev",
+      "github_id": 4391506,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Alexandre Martin",
+      "github": "scalexm",
+      "github_id": 1173131,
+      "is_lead": false
+    },
+    {
+      "name": "Tyler Mandry",
+      "github": "tmandry",
+      "github_id": 2280544,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-traits",
+        "members": [
+          155238,
+          906069,
+          1408859,
+          1993852,
+          4391506,
+          4417660,
+          5758008,
+          5770194,
+          7391596,
+          17734409,
+          20113453,
+          25266609,
+          31162821
+        ]
+      },
+      {
+        "org": "rust-lang-nursery",
+        "name": "wg-traits",
+        "members": [
+          155238,
+          906069,
+          1408859,
+          1993852,
+          4391506,
+          4417660,
+          5758008,
+          5770194,
+          7391596,
+          17734409,
+          20113453,
+          25266609,
+          31162821
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Traits working group",
+    "description": "Revamping the rustc trait implementation to follow the Chalk approach",
+    "page": "wg-traits",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/traits/",
+    "discord": null,
+    "zulip_stream": "wg-traits",
+    "weight": 0
+  }
+}

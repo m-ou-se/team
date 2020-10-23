@@ -1,0 +1,112 @@
+{
+  "name": "wg-triage",
+  "kind": "working_group",
+  "subteam_of": "operations",
+  "members": [
+    {
+      "name": "Dylan DPC",
+      "github": "Dylan-DPC",
+      "github_id": 12371125,
+      "is_lead": true
+    },
+    {
+      "name": "Alex Macleod",
+      "github": "Alexendoo",
+      "github_id": 1830331,
+      "is_lead": false
+    },
+    {
+      "name": "Ben Striegel",
+      "github": "bstrie",
+      "github_id": 865233,
+      "is_lead": false
+    },
+    {
+      "name": "Camelid",
+      "github": "camelid",
+      "github_id": 37223377,
+      "is_lead": false
+    },
+    {
+      "name": "Charles Lew",
+      "github": "crlf0710",
+      "github_id": 451806,
+      "is_lead": false
+    },
+    {
+      "name": "Edmilson Ferreira da Silva",
+      "github": "edmilsonefs",
+      "github_id": 498938,
+      "is_lead": false
+    },
+    {
+      "name": "Elinvynia",
+      "github": "Elinvynia",
+      "github_id": 59487684,
+      "is_lead": false
+    },
+    {
+      "name": "Joel Parmer",
+      "github": "joelpalmer",
+      "github_id": 8049061,
+      "is_lead": false
+    },
+    {
+      "name": "John Simon",
+      "github": "JohnCSimon",
+      "github_id": 1977159,
+      "is_lead": false
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "LeSeulArtichaut",
+      "github": "LeSeulArtichaut",
+      "github_id": 38361244,
+      "is_lead": false
+    },
+    {
+      "name": "Owen Salter",
+      "github": "Muirrum",
+      "github_id": 8702646,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-triage",
+        "members": [
+          451806,
+          498938,
+          865233,
+          1830331,
+          1977159,
+          8049061,
+          8702646,
+          12371125,
+          25030997,
+          37223377,
+          38361244,
+          59487684
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Triage working group",
+    "description": "Triaging repositories under the rust-lang organisation",
+    "page": "wg-triage",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": "t-release/triage",
+    "weight": 0
+  }
+}

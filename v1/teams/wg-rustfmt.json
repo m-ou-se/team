@@ -1,0 +1,59 @@
+{
+  "name": "wg-rustfmt",
+  "kind": "working_group",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Seiichi Uchida",
+      "github": "topecongiro",
+      "github_id": 21980157,
+      "is_lead": true
+    },
+    {
+      "name": "Caleb Cartwright",
+      "github": "calebcartwright",
+      "github_id": 13042488,
+      "is_lead": false
+    },
+    {
+      "name": "Stéphane Campinas",
+      "github": "scampi",
+      "github_id": 795879,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "github_id": 762626,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-rustfmt",
+        "members": [
+          795879,
+          13042488,
+          21980157
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Rustfmt working group",
+    "description": "Designing and implementing rustfmt, a formatting tool for Rust code",
+    "page": "wg-rustfmt",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-rustfmt",
+      "url": "https://discord.gg/e6Q3cvu"
+    },
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

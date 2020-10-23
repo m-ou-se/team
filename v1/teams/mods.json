@@ -1,0 +1,43 @@
+{
+  "name": "mods",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Andrew Gallant",
+      "github": "BurntSushi",
+      "github_id": 456674,
+      "is_lead": false
+    },
+    {
+      "name": "Andre Bogus",
+      "github": "llogiq",
+      "github_id": 4200835,
+      "is_lead": false
+    },
+    {
+      "name": "Matthieu M.",
+      "github": "matthieu-m",
+      "github_id": 2420441,
+      "is_lead": false
+    },
+    {
+      "name": "Matt Brubeck",
+      "github": "mbrubeck",
+      "github_id": 5920,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "Moderation team",
+    "description": "Helping uphold the code of conduct and community standards",
+    "page": "moderation",
+    "email": "rust-mods@rust-lang.org",
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

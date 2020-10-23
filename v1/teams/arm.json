@@ -1,0 +1,40 @@
+{
+  "name": "arm",
+  "kind": "marker_team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Jamie Cunliffe",
+      "github": "JamieCunliffe",
+      "github_id": 29557119,
+      "is_lead": false
+    },
+    {
+      "name": "João Paulo Carreiro",
+      "github": "joaopaulocarreiro",
+      "github_id": 44179172,
+      "is_lead": false
+    },
+    {
+      "name": "Robin Randhawa",
+      "github": "raw-bin",
+      "github_id": 705890,
+      "is_lead": false
+    },
+    {
+      "name": "Stam Markianos-Wright",
+      "github": "Stammark",
+      "github_id": 30555766,
+      "is_lead": false
+    },
+    {
+      "name": "Thomas Vigouroux",
+      "github": "vigoux",
+      "github_id": 39092278,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": null
+}

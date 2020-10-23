@@ -1,0 +1,42 @@
+{
+  "name": "rust-by-example",
+  "kind": "team",
+  "subteam_of": "docs",
+  "members": [
+    {
+      "name": "Steve Klabnik",
+      "github": "steveklabnik",
+      "github_id": 27786,
+      "is_lead": true
+    },
+    {
+      "name": "Mário Idival",
+      "github": "marioidival",
+      "github_id": 1129263,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "rust-by-example",
+        "members": [
+          27786,
+          1129263
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Rust by Example team",
+    "description": "Maintaining and updating an official Rust book, Rust By Example",
+    "page": "rust-by-example",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "zulip_stream": null,
+    "weight": 0
+  }
+}

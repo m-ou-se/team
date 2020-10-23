@@ -1,0 +1,98 @@
+{
+  "name": "wg-rustc-dev-guide",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Joshua Nelson",
+      "github": "jyn514",
+      "github_id": 23638587,
+      "is_lead": true
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "github_id": 52642,
+      "is_lead": true
+    },
+    {
+      "name": "Amanjeev Sethi",
+      "github": "amanjeev",
+      "github_id": 160476,
+      "is_lead": false
+    },
+    {
+      "name": "Chris Simpkins",
+      "github": "chrissimpkins",
+      "github_id": 4249591,
+      "is_lead": false
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "LeSeulArtichaut",
+      "github": "LeSeulArtichaut",
+      "github_id": 38361244,
+      "is_lead": false
+    },
+    {
+      "name": "Paul Daniel Faria",
+      "github": "Nashenas88",
+      "github_id": 1673130,
+      "is_lead": false
+    },
+    {
+      "name": "Togi Sergey",
+      "github": "togiberlin",
+      "github_id": 13764830,
+      "is_lead": false
+    },
+    {
+      "name": "Tshepang Lekhonkhobe",
+      "github": "tshepang",
+      "github_id": 588486,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Who? Me?!",
+      "github": "mark-i-m",
+      "github_id": 8827840,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "wg-rustc-dev-guide",
+        "members": [
+          52642,
+          160476,
+          588486,
+          1673130,
+          4249591,
+          13764830,
+          23638587,
+          25030997,
+          38361244
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Rustc Dev Guide working group",
+    "description": "Make the compiler easier to learn by ensuring that rustc-dev-guide is \"complete\"",
+    "page": "wg-rustc-dev-guide",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/rustc-dev-guide/",
+    "discord": null,
+    "zulip_stream": "t-compiler/wg-rustc-dev-guide",
+    "weight": 0
+  }
+}

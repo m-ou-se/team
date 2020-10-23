@@ -1,0 +1,49 @@
+{
+  "name": "wg-parallel-rustc",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Mark Rousskov",
+      "github": "Mark-Simulacrum",
+      "github_id": 5047365,
+      "is_lead": true
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "github_id": 155238,
+      "is_lead": true
+    },
+    {
+      "name": "Alex Crichton",
+      "github": "alexcrichton",
+      "github_id": 64996,
+      "is_lead": false
+    },
+    {
+      "name": "Josh Stone",
+      "github": "cuviper",
+      "github_id": 36186,
+      "is_lead": false
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "github_id": 52642,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": {
+    "name": "Parallel rustc working group",
+    "description": "Making parallel compilation the default for rustc",
+    "page": "wg-parallel-rustc",
+    "email": null,
+    "repo": "https://rust-lang.github.io/compiler-team/working-groups/parallel-rustc/",
+    "discord": null,
+    "zulip_stream": "t-compiler/wg-parallel-rustc",
+    "weight": 0
+  }
+}

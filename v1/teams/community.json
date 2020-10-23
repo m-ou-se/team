@@ -1,0 +1,94 @@
+{
+  "name": "community",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Ashley Williams",
+      "github": "ashleygwilliams",
+      "github_id": 1163554,
+      "is_lead": false
+    },
+    {
+      "name": "Jan-Erik Rediger",
+      "github": "badboy",
+      "github_id": 2129,
+      "is_lead": false
+    },
+    {
+      "name": "Yuki Okushi",
+      "github": "JohnTitor",
+      "github_id": 25030997,
+      "is_lead": false
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": false
+    },
+    {
+      "name": "Nell Shamrell-Harrington",
+      "github": "nellshamrell",
+      "github_id": 813007,
+      "is_lead": false
+    },
+    {
+      "name": "Sebastián Magrí",
+      "github": "sebasmagri",
+      "github_id": 11137,
+      "is_lead": false
+    },
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "github_id": 47542,
+      "is_lead": false
+    },
+    {
+      "name": "Joshua Gould",
+      "github": "technetos",
+      "github_id": 10949810,
+      "is_lead": false
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Marisa",
+      "github": "fmoko",
+      "github_id": 6445316,
+      "is_lead": false
+    }
+  ],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-lang",
+        "name": "community",
+        "members": [
+          2129,
+          11137,
+          47542,
+          813007,
+          1163554,
+          1617736,
+          10949810,
+          25030997
+        ]
+      }
+    ]
+  },
+  "website_data": {
+    "name": "Community team",
+    "description": "Coordinating and supporting events, content creation, and the RustBridge program, as well as conducting community surveys",
+    "page": "community",
+    "email": "community@rust-lang.org",
+    "repo": "https://github.com/rust-community/team",
+    "discord": {
+      "channel": "#community-team",
+      "url": "https://discord.gg/KskHZGT"
+    },
+    "zulip_stream": null,
+    "weight": 0
+  }
+}
