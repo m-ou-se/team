@@ -27,4 +27,5 @@ bors.rust.review = true
 
 [website]
 name = "Library reviewers"
-description = "Developing and reviewing changes to the Rust standard library"
+description = "Reviewing changes to the Rust standard library"
+weight = 1

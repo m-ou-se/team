@@ -1,0 +1,30 @@
+name = "libs-impl"
+subteam-of = "libs"
+
+[website]
+name = "Library implementation team"
+description = "Developing and maintaining the Rust standard library implementation"
+weight = 2
+
+[people]
+leads = ["m-ou-se"]
+members = [
+  "cuviper",
+  "KodrAus",
+  "m-ou-se",
+  "Mark-Simulacrum",
+  "sfackler",
+]
+
+[permissions]
+bors.rust.review = true
+perf = true
+crater = true
+
+[[github]]
+orgs = ["rust-lang", "rust-lang-nursery"]
+
+[rfcbot]
+label = "T-libs-impl"
+name = "Libs-impl"
+ping = "rust-lang/libs-impl"
