@@ -5,3 +5,4 @@ bots = []
 
 [access.teams]
 all-hands = 'maintain'
+all = 'triage'
